@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhishek-9011/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Abhishek-9011/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Abhishek-9011/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
@@ -37,4 +38,12 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Abhishek-9011/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhishek-9011/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Abhishek-9011/Leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Abhishek-9011/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
