@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhishek-9011/Leetcode/tree/master/0075-sort-colors) |
+| [3195-separate-black-and-white-balls](https://github.com/Abhishek-9011/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -46,4 +47,9 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Abhishek-9011/Leetcode/tree/master/0013-roman-to-integer) |
+| [3195-separate-black-and-white-balls](https://github.com/Abhishek-9011/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+## Greedy
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/Abhishek-9011/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
